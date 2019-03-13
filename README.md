@@ -1,5 +1,5 @@
 # Competitive-Programming-Code-and-Solutions
-C++ solutions to over 600 programs I have solved when competitive programming on the Don Mills Online Judge.
+C++ solutions to over 600 problems I have solved when competitive programming on the Don Mills Online Judge.
 
 All code (at time of writing this) in this repo have been written during my time in high school. Note that a lot of my solutions are quick/messy, and do not represent my development style.
 
